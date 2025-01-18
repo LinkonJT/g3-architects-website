@@ -227,6 +227,16 @@ max-width: 530px;
 }
 
 
+
+.footer{
+    padding: 40px 410px;
+    margin-top: 130px;
+    margin-bottom: 213px;
+    display: flex;
+    justify-content: center;
+
+}
+
 /* responsive media query */
 
 @media screen and (max-width: 576px) {
